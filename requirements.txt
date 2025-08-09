@@ -1,5 +1,5 @@
+websocket-client
 pandas
 numpy
-flask
-websocket-client
 requests
+flask
